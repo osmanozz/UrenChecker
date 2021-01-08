@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView1" type="id"> </item>
+    <item name="textView2" type="id"> </item>
+    <item name="txtNumber1" type="id"> </item>
+    <item name="textView3" type="id"> </item>
+    <item name="btnAdd" type="id"> </item>
+    <item name="txtNumber2" type="id"> </item>
+    <item name="txtResult" type="id"> </item>
+</resources>
